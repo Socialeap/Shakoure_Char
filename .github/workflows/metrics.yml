@@ -13,13 +13,18 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          
+          # Lines of Code Plugin
+          plugin_lines: yes
+          plugin_lines_history: yes
+          
+          # Language Details
           plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+          
+          # Fixed Activity (Removing 'push' to prevent timeouts/errors)
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, member # Filter out "push" to avoid the timeout error
-          plugin_languages_details: percentage
-          plugin_languages_ignored: html, css
-          plugin_lines: yes
-          plugin_lines_history: yes # Shows a small graph of your coding volume over time
-          plugin_lines_sections: base, repositories
+          plugin_activity_filter: issue, pr, release, member
