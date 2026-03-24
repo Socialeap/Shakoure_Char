@@ -45,4 +45,11 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 
 ---
 
+### 📊 Automated Executive Metrics
+![GitHub Metrics](https://github.com/Socialeap/Shakoure_Char/blob/master/github-metrics.svg)
+
+---
+
+> *This dashboard updates daily, reflecting high-level engineering activity across private and public ventures including Socialeap™ and Flowish.*
+
 [LinkedIn](https://www.linkedin.com/in/shakoure-char/) | [Socialeap](https://socialeap.net) | [Transcendence Media](http://transcendencemedia.com)
