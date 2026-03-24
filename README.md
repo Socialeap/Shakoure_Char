@@ -31,9 +31,16 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 </table>
 
 ---
-### 📊 Executive Engineering Metrics
-![Shakoure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialeap&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+## 📊 Executive Engineering Metrics
+![Shakoure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialeap&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_rank=true)
 ![Shakoure's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark&hide_border=true)
+
+---
+
+## 📊 Automated Executive Dashboard
+![GitHub Metrics](./github-metrics.svg)
+
+> *This dashboard reflects deep-dive activity across Socialeap™ and Flowish, updated daily via GitHub Actions.*
 
 ---
 ### 🛠️ Strategic Expertise
