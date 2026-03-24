@@ -1,25 +1,44 @@
 # Shakoure Char
 **Founder @ Socialeap™ & Transcendence Media**
 
-Architect of AI-native infrastructure and spatial design. Bridging the gap between human cognition and digital productivity through structured knowledge systems.
+Architecting AI-native infrastructure and spatial design to bridge the gap between human cognition and digital productivity.
 
 ---
 
 ### 🚀 Active Ventures
-* **Flowish** | AI memory & thinking infrastructure. Converts unstructured input into private, auto-structured knowledge layers.
-* **Hello!** | AI-smart networking layer. Transforming static signatures into interactive connection cards.
-* **Frontiers|3D** | Interactive virtual plazas featuring spatial web environments and AI-powered NPC guides.
-* **Showcases|3D** | Immersive 3D systems architected for global real estate and hospitality markets.
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>♾️ Flowish</strong><br>
+      AI memory infrastructure converting unstructured input into private knowledge layers.
+    </td>
+    <td width="50%">
+      <strong>👋 Hello!</strong><br>
+      AI-smart networking layer transforming signatures into interactive connection cards.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🌎 Frontiers|3D</strong><br>
+      Interactive virtual plazas with spatial web environments and AI-powered NPC guides.
+    </td>
+    <td>
+      <strong>🏠 Showcases|3D</strong><br>
+      Immersive 3D systems architected for global real estate and hospitality markets.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Strategic Expertise
-`Generative AI` • `Spatial Computing` • `Systems Architecture` • `Behavioral Analytics` • `UX/UI Design`
+`Generative AI` • `Spatial Computing` • `Systems Architecture` • `Behavioral Analytics`
 
 ---
 
 ### 📈 Proof of Work
-> **Confidentiality Note:** My primary development occurs within private enterprise repositories to protect proprietary AI workflows. My contribution graph reflects this activity without exposing source code.
+> **Confidentiality Note:** Core development occurs within private repositories to protect proprietary AI workflows. Activity is reflected in the contribution graph below.
 
 ---
 
