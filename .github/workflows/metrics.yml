@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,8 +14,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_languages: yes
-          plugin_languages_ignored: html, css # Focus on logic languages
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: push, issue, pr
