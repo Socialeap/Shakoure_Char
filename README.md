@@ -5,7 +5,7 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 
 ---
 
-### 🚀 Active Ventures
+## 🚀 Active Ventures
 
 <table>
   <tr>
@@ -31,41 +31,19 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 </table>
 
 ---
-## 📊 Executive Engineering Metrics
-![Shakoure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialeap&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_rank=true)
-![Shakoure's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark&hide_border=true)
-
----
 
 ## 📊 Automated Executive Dashboard
 ![GitHub Metrics](./github-metrics.svg)
 
-> *This dashboard reflects deep-dive activity across Socialeap™ and Flowish, updated daily via GitHub Actions.*
+> *This dashboard reflects deep-dive activity across [Socialeap™](https://socialeap.net) and Flowish, updated daily via GitHub Actions.*
 
 ---
-### 🛠️ Strategic Expertise
+
+## 📈 Activity & Expertise
+![Shakoure's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark&hide_border=true)
+
 `Generative AI` • `Spatial Computing` • `Systems Architecture` • `Behavioral Analytics`
 
 ---
 
-### 📈 Proof of Work
-> **Confidentiality Note:** Core development occurs within private repositories to protect proprietary AI workflows. Activity is reflected in the contribution graph below.
-
----
-
-## 📊 Executive Activity 
-![Shakoure's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark&hide_border=true)
-
-## 📊 Automated Systems Dashboard
-![GitHub Metrics](./github-metrics.svg)
-
-> *This dashboard reflects deep-dive activity across Socialeap™ and Flowish, updated daily.*
-
----
-
-[LinkedIn](https://www.linkedin.com/in/shakoure-char/) | [Socialeap](https://socialeap.net) | [Transcendence Media](http://transcendencemedia.com)
-
-
-
-
-
+**[LinkedIn](https://www.linkedin.com/in/shakoure-char/) | [Socialeap](https://socialeap.net) | [Transcendence Media](http://transcendencemedia.com)**
