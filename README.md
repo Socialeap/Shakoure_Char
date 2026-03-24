@@ -31,10 +31,11 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 </table>
 
 ---
-### 📊 Activity Metrics
-![Socialeap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialeap&show_icons=true&theme=dark)
-![Socialeap's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark)
+### 📊 Executive Engineering Metrics
+![Shakoure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialeap&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![Shakoure's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Socialeap&theme=dark&hide_border=true)
 
+---
 ### 🛠️ Strategic Expertise
 `Generative AI` • `Spatial Computing` • `Systems Architecture` • `Behavioral Analytics`
 
