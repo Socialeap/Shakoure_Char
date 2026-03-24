@@ -32,10 +32,10 @@ Architecting AI-native infrastructure and spatial design to bridge the gap betwe
 
 ---
 
-## 📊 Automated Executive Dashboard
+## 📊 Automated Systems Dashboard
 ![GitHub Metrics](./github-metrics.svg)
 
-> *This dashboard reflects deep-dive activity across [Socialeap™](https://socialeap.net) and Flowish, updated daily via GitHub Actions.*
+> *This dashboard reflects engineering activity and code volume across [Socialeap™](https://socialeap.net) and private ventures, updated daily.*
 
 ---
 
